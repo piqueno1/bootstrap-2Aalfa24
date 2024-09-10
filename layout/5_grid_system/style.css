@@ -5,9 +5,9 @@ body{
 header,nav,main, .row div {
     background-color: #fff;
     min-height: 10vh;
-    margin: 2vh;
+    padding: 5vh;
+    border: 1vh solid red;
 }
-
 header{
     margin: 2vh auto;
 }
